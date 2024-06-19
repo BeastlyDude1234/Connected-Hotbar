@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack">Installation</a> • <a href="https://github.com/BeastlyDude1234/Connected-Hotbar/issues">Issues</a> • <a href="https://github.com/BeastlyDude1234">More</a></p>
 
-Removes the dividers between slots in the hotbar making it one big seamless box. _If you want a dark edition go [here](https://modrinth.com/resourcepack/connected-hotbar-(dark))._
+Removes the dividers between slots in the hotbar making it one big seamless box. _If you want the dark edition go [here](https://github.com/BeastlyDude1234/Connected-Hotbar-Dark)._
 
 <details>
 <summary>Compatibility</summary>
